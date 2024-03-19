@@ -34,6 +34,4 @@ src="https://img.shields.io/twitter/follow/sucre_papii?logo=twitter&style=for-th
 
 <a href="http://www.github.com/Sucrepapii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sucrepapii&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Sucrepapii"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sucrepapii&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Sucrepapii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sucrepapii&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
